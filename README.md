@@ -1,0 +1,1 @@
+is the simplest video parser from m3u8 playlist, it requires installing dependencies and adding the file ffmpeg.exe to the Scripts folder in the virtual environment
